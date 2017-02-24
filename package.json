@@ -1,0 +1,11 @@
+{
+  "name": "SimpleWebserver",
+  "version": "1.0.0",
+  "description": "Simple node.js WebServer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cave3",
+  "license": "ISC"
+}
